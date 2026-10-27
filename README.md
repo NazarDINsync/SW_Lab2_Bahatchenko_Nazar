@@ -22,7 +22,7 @@
 | [Intelligent dance music](https://en.wikipedia.org/wiki/Intelligent_dance_music) | 1884 |
 | [Selected Ambient Works 85–92](https://en.wikipedia.org/wiki/Selected_Ambient_Works_85%E2%80%9392) | 1680 |
 
-**Питання до тексту:** TODO (див. `questions.md`)
+**Питання до тексту:** 5 питань (3 прості, 2 на синтез з кількох документів), див. `questions.md`.
 
 ## 2. LLM-екстракція
 

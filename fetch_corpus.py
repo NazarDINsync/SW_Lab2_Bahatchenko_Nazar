@@ -9,7 +9,6 @@ TITLES = [
     "Boards of Canada",
     "Richie Hawtin",
     "Warp (record label)",
-    "Mute Records",
     "Techno",
     "Ambient music",
     "Detroit techno",
@@ -48,5 +47,4 @@ for title in TITLES:
     print(f"{filename}: {words} слів")
 
 print(f"Разом: {total} слів")
-# перевірка, що слів не менше 6000 (вимога лабораторної)
 assert total >= 6000, "замало тексту"
