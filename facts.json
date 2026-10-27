@@ -1,0 +1,2720 @@
+[
+  {
+    "subject": "Brian Eno",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "Ambient 1: Music for Airports",
+    "object_type": "Album",
+    "evidence": "popularized by British musician Brian Eno in 1978 with his album Ambient 1: Music for Airports",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient 1: Music for Airports",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "Ambient music",
+    "object_type": "Genre",
+    "evidence": "popularized by British musician Brian Eno in 1978 with his album Ambient 1: Music for Airports",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient music",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "musique concrète",
+    "object_type": "Genre",
+    "evidence": "It was presaged by Erik Satie's furniture music and styles such as musique concrète",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient music",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "minimal music",
+    "object_type": "Genre",
+    "evidence": "styles such as musique concrète, minimal music, Jamaican dub music and German electronic music",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient music",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "dub music",
+    "object_type": "Genre",
+    "evidence": "styles such as musique concrète, minimal music, Jamaican dub music and German electronic music",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient music",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "classical",
+    "object_type": "Genre",
+    "evidence": "ambient music often takes influences from a wide range of genres, including classical, avant-garde music, experimental music, folk, jazz, and world music",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient music",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "avant-garde music",
+    "object_type": "Genre",
+    "evidence": "ambient music often takes influences from a wide range of genres, including classical, avant-garde music, experimental music, folk, jazz, and world music",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient music",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "experimental music",
+    "object_type": "Genre",
+    "evidence": "ambient music often takes influences from a wide range of genres, including classical, avant-garde music, experimental music, folk, jazz, and world music",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient music",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "folk",
+    "object_type": "Genre",
+    "evidence": "ambient music often takes influences from a wide range of genres, including classical, avant-garde music, experimental music, folk, jazz, and world music",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient music",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "jazz",
+    "object_type": "Genre",
+    "evidence": "ambient music often takes influences from a wide range of genres, including classical, avant-garde music, experimental music, folk, jazz, and world music",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient music",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "world music",
+    "object_type": "Genre",
+    "evidence": "ambient music often takes influences from a wide range of genres, including classical, avant-garde music, experimental music, folk, jazz, and world music",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Brian Eno",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "John Cage",
+    "object_type": "Person",
+    "evidence": "Cage has been cited by seminal artists such as Brian Eno as influence.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Pauline Oliveros",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "The San Francisco Tape Music Center",
+    "object_type": "Label",
+    "evidence": "Other composers working with tape recorders became members and collaborators including Pauline Oliveros",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Terry Riley",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "The San Francisco Tape Music Center",
+    "object_type": "Label",
+    "evidence": "Other composers working with tape recorders became members and collaborators including Pauline Oliveros, Terry Riley and Steve Reich.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Steve Reich",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "The San Francisco Tape Music Center",
+    "object_type": "Label",
+    "evidence": "Other composers working with tape recorders became members and collaborators including Pauline Oliveros, Terry Riley and Steve Reich.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ralf Hutter",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Kraftwerk",
+    "object_type": "Artist",
+    "evidence": "Ralf Hutter of early electronic pioneers Kraftwerk",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "King Tubby",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "dub",
+    "object_type": "Genre",
+    "evidence": "Jamaican dub musicians such as King Tubby",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Laraaji",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "new-age",
+    "object_type": "Genre",
+    "evidence": "new-age musician Laraaji",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Pauline Oliveros",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "San Francisco Tape Music Centre",
+    "object_type": "Artist",
+    "evidence": "founding member and director of the San Francisco Tape Music Centre, Pauline Oliveros",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Éliane Radigue",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "La Trilogie De La Mort",
+    "object_type": "Album",
+    "evidence": "Éliane Radigue produced three hour-long works on the ARP 2500 which were subsequently issued together as La Trilogie De La Mort.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Selected Ambient Works Volume II",
+    "object_type": "Album",
+    "evidence": "Aphex Twin (specifically: Selected Ambient Works Volume II, 1994)",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Global Communication",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "76:14",
+    "object_type": "Album",
+    "evidence": "Global Communication (76:14, 1994)",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "The Future Sound of London",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Lifeforms",
+    "object_type": "Album",
+    "evidence": "The Future Sound of London (Lifeforms, 1994, ISDN, 1994)",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "The Future Sound of London",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "ISDN",
+    "object_type": "Album",
+    "evidence": "The Future Sound of London (Lifeforms, 1994, ISDN, 1994)",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "the Black Dog",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Temple of Transparent Balls",
+    "object_type": "Album",
+    "evidence": "the Black Dog (Temple of Transparent Balls, 1993)",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Autechre",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Incunabula",
+    "object_type": "Album",
+    "evidence": "Autechre (Incunabula, 1993, Amber, 1994)",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Autechre",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Amber",
+    "object_type": "Album",
+    "evidence": "Autechre (Incunabula, 1993, Amber, 1994)",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "The KLF",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Chill Out",
+    "object_type": "Album",
+    "evidence": "The KLF's Chill Out, (1990)",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Susumu Yokota",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Sakura",
+    "object_type": "Album",
+    "evidence": "Japanese artist Susumu Yokota whose album Sakura (1999)",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Carbon Based Lifeforms",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Ultimae",
+    "object_type": "Label",
+    "evidence": "Ultimae has become the go-to label for space ambient, and they included artists such as Carbon Based Lifeforms.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Kompakt",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Pop Ambient",
+    "object_type": "Album",
+    "evidence": "Kompakt, which has released installments of the influential ambient techno compilation series Pop Ambient annually since 2001.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Atlas Sound",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Let the Blind Lead Those Who Can See but Cannot Feel",
+    "object_type": "Album",
+    "evidence": "Atlas Sound debuted with the album Let the Blind Lead Those Who Can See but Cannot Feel",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Animal Collective",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Merriweather Post Pavilion",
+    "object_type": "Album",
+    "evidence": "Animal Collective's Merriweather Post Pavilion was an album released in January 2009",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Grouper",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "AIA: Alien Observer",
+    "object_type": "Album",
+    "evidence": "American composer Liz Harris recording as Grouper released the album AIA: Alien Observer",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Julianna Barwick",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "The Magic Place",
+    "object_type": "Album",
+    "evidence": "Julianna Barwick released her first full-length album The Magic Place.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Kaitlyn Aurelia Smith",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Western Vinyl",
+    "object_type": "Label",
+    "evidence": "Kaitlyn Aurelia Smith was signed to independent record label Western Vinyl in 2015",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Kaitlyn Aurelia Smith",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "EARS",
+    "object_type": "Album",
+    "evidence": "she released her second official album EARS",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Moby",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Long Ambients 1: Calm. Sleep.",
+    "object_type": "Album",
+    "evidence": "Long Ambients 1: Calm. Sleep. was released by American electronica musician Moby in 2016",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Moby",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Long Ambients 2",
+    "object_type": "Album",
+    "evidence": "Moby released a follow-up ambient album, Long Ambients 2",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Long Ambients 2",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "ambient",
+    "object_type": "Genre",
+    "evidence": "Moby released a follow-up ambient album, Long Ambients 2",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Iggy Pop",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Free",
+    "object_type": "Album",
+    "evidence": "Iggy Pop's 2019 album Free",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Kyle Bobby Dunn",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "From Here To Eternity",
+    "object_type": "Album",
+    "evidence": "Canadian composer Kyle Bobby Dunn released the 3 hour From Here To Eternity album",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Brainvoyager",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "Ambient house",
+    "object_type": "Genre",
+    "evidence": "The Dutch Brainvoyager is an example of this genre",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Ambient pop",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "techno",
+    "object_type": "Genre",
+    "evidence": "It has drawn from psychedelic music and the repetitive traits of minimalism, krautrock and techno as prevalent influences",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Slowdive",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Pygmalion",
+    "object_type": "Album",
+    "evidence": "Dream pop band Slowdive's 1995 album Pygmalion",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Dark ambient",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "industrial",
+    "object_type": "Genre",
+    "evidence": "It draws primary influence from both industrial and ambient music",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Dark ambient",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "ambient music",
+    "object_type": "Genre",
+    "evidence": "It draws primary influence from both industrial and ambient music",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Roger Karmanik",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Brighter Death Now",
+    "object_type": "Artist",
+    "evidence": "Roger Karmanik of Brighter Death Now",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Lustmord",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "dark ambient",
+    "object_type": "Genre",
+    "evidence": "Projects like Lustmord, Nocturnal Emissions, Lab Report, and Zoviet France were some of the earliest artists to create consistently dark ambient music.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Nocturnal Emissions",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "dark ambient",
+    "object_type": "Genre",
+    "evidence": "Projects like Lustmord, Nocturnal Emissions, Lab Report, and Zoviet France were some of the earliest artists to create consistently dark ambient music.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Lab Report",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "dark ambient",
+    "object_type": "Genre",
+    "evidence": "Projects like Lustmord, Nocturnal Emissions, Lab Report, and Zoviet France were some of the earliest artists to create consistently dark ambient music.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Zoviet France",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "dark ambient",
+    "object_type": "Genre",
+    "evidence": "Projects like Lustmord, Nocturnal Emissions, Lab Report, and Zoviet France were some of the earliest artists to create consistently dark ambient music.",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "Max Richter",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Sleep",
+    "object_type": "Album",
+    "evidence": "Max Richter's album Sleep",
+    "source": "Ambient_music.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "signed_to",
+    "object": "Warp",
+    "object_type": "Label",
+    "evidence": "James signed to Warp in late 1992",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Rephlex Records",
+    "object_type": "Label",
+    "evidence": "James co-founded the independent label Rephlex Records the same year.",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Apollo",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Selected Ambient Works 85–92",
+    "object_type": "Album",
+    "evidence": "His 1992 debut album Selected Ambient Works 85–92, released by Belgian label Apollo",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "Drukqs",
+    "object_type": "Album",
+    "evidence": "After releasing Drukqs in 2001",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Rephlex Records",
+    "object_type": "Label",
+    "evidence": "He and James founded Rephlex Records in 1991.",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "Analogue Bubblebath",
+    "object_type": "Album",
+    "evidence": "James's first release was the 12\" EP Analogue Bubblebath",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Mighty Force",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Analogue Bubblebath",
+    "object_type": "Album",
+    "evidence": "released on Mighty Force in September 1991.",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Universal Indicator",
+    "object_type": "Artist",
+    "evidence": "the Red EP as part of the Universal Indicator collective",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Apollo Records",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Selected Ambient Works 85–92",
+    "object_type": "Album",
+    "evidence": "It was released in November 1992 by Apollo Records",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Selected Ambient Works 85–92",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "ambient music",
+    "object_type": "Genre",
+    "evidence": "John Bush of Allmusic later described it as a watershed moment in ambient music.",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "Brian Eno",
+    "object_type": "Person",
+    "evidence": "Pat Blashill wrote that Aphex Twin had \"expanded way beyond the ambient music of Brian Eno",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "Digeridoo",
+    "object_type": "Album",
+    "evidence": "In 1992 James also released the EPs Digeridoo and Xylem Tube EP as Aphex Twin",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "Surfing on Sine Waves",
+    "object_type": "Album",
+    "evidence": "As Polygon Window, in 1993, James released his first records on Warp: Surfing on Sine Waves",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Selected Ambient Works Volume II",
+    "object_type": "Album",
+    "evidence": "Warp released the second Aphex Twin album, Selected Ambient Works Volume II",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Drukqs",
+    "object_type": "Album",
+    "evidence": "In 2001 Aphex Twin released Drukqs",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Drukqs",
+    "subject_type": "Album",
+    "predicate": "influenced_by",
+    "object": "Erik Satie",
+    "object_type": "Person",
+    "evidence": "influenced by Erik Satie and John Cage",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Drukqs",
+    "subject_type": "Album",
+    "predicate": "influenced_by",
+    "object": "John Cage",
+    "object_type": "Person",
+    "evidence": "influenced by Erik Satie and John Cage",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Rephlex",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Expert Knob Twiddlers",
+    "object_type": "Album",
+    "evidence": "which was released by James' Rephlex label",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "2 Remixes By AFX",
+    "object_type": "Album",
+    "evidence": "In 2001 James also released a short EP, 2 Remixes By AFX",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "26 Mixes for Cash",
+    "object_type": "Album",
+    "evidence": "In 2003 Warp released 26 Mixes for Cash",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "Analord",
+    "object_type": "Album",
+    "evidence": "In 2005 James released a series of vinyl EPs under the AFX name, Analord",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "Confederation Trough",
+    "object_type": "Album",
+    "evidence": "In 2007 James released two records on Rephlex, Confederation Trough and Rushup Edge",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "Rushup Edge",
+    "object_type": "Album",
+    "evidence": "In 2007 James released two records on Rephlex, Confederation Trough and Rushup Edge",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "Computer Controlled Acoustic Instruments pt2",
+    "object_type": "Album",
+    "evidence": "On 23 January 2015 James released Computer Controlled Acoustic Instruments pt2",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "London 03.06.17",
+    "object_type": "Album",
+    "evidence": "James performed at the Field Day festival and released a limited edition EP, London 03.06.17",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Collapse",
+    "object_type": "Album",
+    "evidence": "Aphex Twin released an EP, Collapse, on 14 September 2018",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "London 19.08.2023",
+    "object_type": "Album",
+    "evidence": "James performed at Field Day and released another exclusive vinyl EP, London 19.08.2023.",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Newbuild",
+    "object_type": "Album",
+    "evidence": "He has cited 808 State's 1988 debut album Newbuild as a major early inspiration.",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Luke Vibert",
+    "object_type": "Person",
+    "evidence": "he named friends and fellow musicians Luke Vibert and Tom Jenkinson as influences.",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Tom Jenkinson",
+    "object_type": "Person",
+    "evidence": "he named friends and fellow musicians Luke Vibert and Tom Jenkinson as influences.",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Rephlex",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Music from the BBC Radiophonic Workshop",
+    "object_type": "Album",
+    "evidence": "James's Rephlex label released Music from the BBC Radiophonic Workshop",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Kraftwerk",
+    "object_type": "Artist",
+    "evidence": "In 2019 he described Kraftwerk as a major influence.",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Warp Records",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Artificial Intelligence Series",
+    "object_type": "Album",
+    "evidence": "the Artificial Intelligence Series released by Warp Records",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Alarm Will Sound",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Acoustica: Alarm Will Sound Performs Aphex Twin",
+    "object_type": "Album",
+    "evidence": "In 2005 Alarm Will Sound released Acoustica: Alarm Will Sound Performs Aphex Twin",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Thomas Bangalter",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Daft Punk",
+    "object_type": "Artist",
+    "evidence": "Thomas Bangalter of Daft Punk",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Discovery",
+    "subject_type": "Album",
+    "predicate": "influenced_by",
+    "object": "Aphex Twin",
+    "object_type": "Artist",
+    "evidence": "Thomas Bangalter of Daft Punk cited Aphex Twin (particularly \"Windowlicker\") as an influence on their 2001 album Discovery.",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Thom Yorke",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Radiohead",
+    "object_type": "Artist",
+    "evidence": "the Radiohead singer, Thom Yorke",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Thom Yorke",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Aphex Twin",
+    "object_type": "Artist",
+    "evidence": "the Radiohead singer, Thom Yorke, said Aphex Twin was his biggest influence",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Selected Ambient Works 85–92",
+    "object_type": "Album",
+    "evidence": "Selected Ambient Works 85–92 (1992)",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Selected Ambient Works Volume II",
+    "object_type": "Album",
+    "evidence": "Selected Ambient Works Volume II (1994)",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "...I Care Because You Do",
+    "object_type": "Album",
+    "evidence": "...I Care Because You Do (1995)",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Richard D. James Album",
+    "object_type": "Album",
+    "evidence": "Richard D. James Album (1996)",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Drukqs",
+    "object_type": "Album",
+    "evidence": "Drukqs (2001)",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Syro",
+    "object_type": "Album",
+    "evidence": "Syro (2014)",
+    "source": "Aphex_Twin.txt"
+  },
+  {
+    "subject": "Mike Sandison",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Boards of Canada",
+    "object_type": "Artist",
+    "evidence": "Boards of Canada are a Scottish electronic music duo consisting of brothers Mike Sandison and Marcus Eoin",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Marcus Eoin",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Boards of Canada",
+    "object_type": "Artist",
+    "evidence": "Boards of Canada are a Scottish electronic music duo consisting of brothers Mike Sandison and Marcus Eoin",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Warp Records",
+    "object_type": "Label",
+    "evidence": "the group signed to Warp Records in 1998",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Music Has the Right to Children",
+    "object_type": "Album",
+    "evidence": "released their debut album Music Has the Right to Children",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Geogaddi",
+    "object_type": "Album",
+    "evidence": "This was followed by their second studio album Geogaddi (2002)",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "The Campfire Headphase",
+    "object_type": "Album",
+    "evidence": "Their third studio album The Campfire Headphase (2005)",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Tomorrow's Harvest",
+    "object_type": "Album",
+    "evidence": "the duo returned in 2013 with their fourth studio album Tomorrow's Harvest",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Inferno",
+    "object_type": "Album",
+    "evidence": "they released their fifth studio album, Inferno, in 2026.",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Catalog 3",
+    "object_type": "Album",
+    "evidence": "Their first known release was Catalog 3, in 1987 on cassette tape, on the brothers' own label, Music70, while Boards of Canada was still a band",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Chris Horne",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Boards of Canada",
+    "object_type": "Artist",
+    "evidence": "By 1989, the band had been reduced to three core members, Mike, Marcus and Chris Horne.",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Acid Memories",
+    "object_type": "Album",
+    "evidence": "the band released Acid Memories.",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Play By Numbers",
+    "object_type": "Album",
+    "evidence": "Boards of Canada released Play By Numbers",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Hooper Bay",
+    "object_type": "Album",
+    "evidence": "Boards of Canada released Play By Numbers and Hooper Bay",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Twoism",
+    "object_type": "Album",
+    "evidence": "Boards of Canada self-financed the limited release of the Twoism",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Mike Sandison",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Boards of Canada",
+    "object_type": "Artist",
+    "evidence": "Boards of Canada became a duo of brothers Mike Sandison and Marcus Eoin.",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Marcus Eoin",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Boards of Canada",
+    "object_type": "Artist",
+    "evidence": "Boards of Canada became a duo of brothers Mike Sandison and Marcus Eoin.",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Sean Booth",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Autechre",
+    "object_type": "Artist",
+    "evidence": "Sean Booth of Autechre",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Skam Records",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Hi Scores",
+    "object_type": "Album",
+    "evidence": "contacting Skam Records, leading to the release of Hi Scores in 1996 on the label.",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Boc Maxima",
+    "object_type": "Album",
+    "evidence": "the duo released Boc Maxima through Music70",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Music Has the Right to Children",
+    "object_type": "Album",
+    "evidence": "what would become their debut studio album, Music Has the Right to Children, released in April 1998.",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Vivid",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Geogaddi",
+    "object_type": "Album",
+    "evidence": "Geogaddi was officially released by Vivid on 8 January 2002 in Japan",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Warp Records",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Geogaddi",
+    "object_type": "Album",
+    "evidence": "and by Warp Records on 18 February 2002 in Europe",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Inferno",
+    "object_type": "Album",
+    "evidence": "On 29 May 2026, Boards of Canada released their fifth studio album, Inferno.",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Warp Records",
+    "object_type": "Label",
+    "evidence": "Boards of Canada's longtime record label Warp Records",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "downtempo",
+    "object_type": "Genre",
+    "evidence": "The music of Boards of Canada has been described by AllMusic as \"evocative, mournful, sample-laden downtempo music",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "folktronica",
+    "object_type": "Genre",
+    "evidence": "They have additionally been referred to as a folktronica act",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "intelligent dance music",
+    "object_type": "Genre",
+    "evidence": "They have also been described as \"icons\" of the intelligent dance music\" (IDM) movement.",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Music Has the Right to Children",
+    "object_type": "Album",
+    "evidence": "Boards of Canada's track \"Olson\" from Music Has the Right to Children",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Sandison brothers",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "Joni Mitchell",
+    "object_type": "Artist",
+    "evidence": "Sandison brothers have named several acts that influence their work including Joni Mitchell",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Sandison brothers",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "the Incredible String Band",
+    "object_type": "Artist",
+    "evidence": "Sandison brothers have named several acts that influence their work including Joni Mitchell, the Incredible String Band",
+    "source": "Boards_of_Canada.txt"
+  },
+  {
+    "subject": "Juan Atkins",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Cybotron",
+    "object_type": "Artist",
+    "evidence": "Atkins met Rick Davis and formed Cybotron with him.",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Rick Davis",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Cybotron",
+    "object_type": "Artist",
+    "evidence": "Atkins met Rick Davis and formed Cybotron with him.",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Fantasy",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Enter",
+    "object_type": "Album",
+    "evidence": "Fantasy to sign the duo and release their album, Enter.",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Juan Atkins",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Parliament",
+    "object_type": "Artist",
+    "evidence": "Juan Atkins was inspired to buy a synthesizer after hearing Parliament.",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Juan Atkins",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "Parliament-Funkadelic",
+    "object_type": "Artist",
+    "evidence": "P-funk, also known as Parliament-Funkadelic, was one of the first musical groups to influence his techno/futuristic sound and aesthetic",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Techno",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "funk",
+    "object_type": "Genre",
+    "evidence": "The founding of Techno, being partially rooted in the intergalactic visions of funk",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Atkins",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Cybotron",
+    "object_type": "Artist",
+    "evidence": "his Cybotron days",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Cybotron",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Techno City",
+    "object_type": "Album",
+    "evidence": "his Cybotron days (\"Techno City\" was an early single)",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Derrick May",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "Detroit techno",
+    "object_type": "Genre",
+    "evidence": "The first wave of Detroit techno had peaked in 1988–89, with the popularity of artists like Derrick May",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Kevin Saunderson",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "Detroit techno",
+    "object_type": "Genre",
+    "evidence": "The first wave of Detroit techno had peaked in 1988–89, with the popularity of artists like Derrick May, Kevin Saunderson",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Blake Baxter",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "Detroit techno",
+    "object_type": "Genre",
+    "evidence": "The first wave of Detroit techno had peaked in 1988–89, with the popularity of artists like Derrick May, Kevin Saunderson, Blake Baxter",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Chez Damier",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "Detroit techno",
+    "object_type": "Genre",
+    "evidence": "The first wave of Detroit techno had peaked in 1988–89, with the popularity of artists like Derrick May, Kevin Saunderson, Blake Baxter, and Chez Damier",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Mike Banks",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Underground Resistance",
+    "object_type": "Artist",
+    "evidence": "Underground Resistance (featuring Mike Banks, Jeff Mills, and Robert Hood)",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Jeff Mills",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Underground Resistance",
+    "object_type": "Artist",
+    "evidence": "Underground Resistance (featuring Mike Banks, Jeff Mills, and Robert Hood)",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Robert Hood",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Underground Resistance",
+    "object_type": "Artist",
+    "evidence": "Underground Resistance (featuring Mike Banks, Jeff Mills, and Robert Hood)",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "+8",
+    "object_type": "Label",
+    "evidence": "the label +8 was formed by Richie Hawtin",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "John Acquaviva",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "+8",
+    "object_type": "Label",
+    "evidence": "the label +8 was formed by Richie Hawtin and John Acquaviva",
+    "source": "Detroit_techno.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "founded",
+    "object": "Rephlex Records",
+    "object_type": "Label",
+    "evidence": "Rephlex Records, co-founded by Aphex Twin",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Artificial Intelligence",
+    "object_type": "Album",
+    "evidence": "1992 Warp compilation Artificial Intelligence",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Ryuichi Sakamoto",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Yellow Magic Orchestra",
+    "object_type": "Artist",
+    "evidence": "Yellow Magic Orchestra (YMO) and its member Ryuichi Sakamoto",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Ryuichi Sakamoto",
+    "subject_type": "Person",
+    "predicate": "released",
+    "object": "B-2 Unit",
+    "object_type": "Album",
+    "evidence": "Sakamoto's 1980 solo album B-2 Unit",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Yellow Magic Orchestra",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "BGM",
+    "object_type": "Album",
+    "evidence": "YMO's 1981 album BGM",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Artificial Intelligence",
+    "object_type": "Album",
+    "evidence": "Warp released Artificial Intelligence",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Coil",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "The Snow EP",
+    "object_type": "Album",
+    "evidence": "English experimental group Coil's The Snow EP",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Jam & Spoon",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Tales from a Danceographic Ocean",
+    "object_type": "Album",
+    "evidence": "Jam & Spoon's Tales from a Danceographic Ocean",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "The Black Dog",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Bytes",
+    "object_type": "Album",
+    "evidence": "the Black Dog's album Bytes",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "second Artificial Intelligence compilation",
+    "object_type": "Album",
+    "evidence": "Warp's second Artificial Intelligence compilation was released in 1994.",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Radiohead",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Kid A",
+    "object_type": "Album",
+    "evidence": "Radiohead's 2000 album Kid A",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Kid A",
+    "subject_type": "Album",
+    "predicate": "influenced_by",
+    "object": "Autechre",
+    "object_type": "Artist",
+    "evidence": "Radiohead's 2000 album Kid A drew on what AllMusic called the \"intelligent techno\" sound of Autechre",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Kid A",
+    "subject_type": "Album",
+    "predicate": "influenced_by",
+    "object": "Aphex Twin",
+    "object_type": "Artist",
+    "evidence": "Radiohead's 2000 album Kid A drew on what AllMusic called the \"intelligent techno\" sound of Autechre and Aphex Twin.",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "founded",
+    "object": "Rephlex Records",
+    "object_type": "Label",
+    "evidence": "Rephlex Records, co-founded by Aphex Twin",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Sean Booth",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Autechre",
+    "object_type": "Artist",
+    "evidence": "Autechre's Sean Booth",
+    "source": "Intelligent_dance_music.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Plus 8",
+    "object_type": "Label",
+    "evidence": "In May 1990, Hawtin and John Acquaviva founded the Plus 8 record label",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "John Acquaviva",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Plus 8",
+    "object_type": "Label",
+    "evidence": "In May 1990, Hawtin and John Acquaviva founded the Plus 8 record label",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "M-nus Records",
+    "object_type": "Label",
+    "evidence": "In 1998, Hawtin launched M-nus Records.",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Dimension Intrusion",
+    "object_type": "Album",
+    "evidence": "he released his debut album Dimension Intrusion (1993)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Sheet One",
+    "object_type": "Album",
+    "evidence": "releasing the single \"Spastik\" and parent album Sheet One",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "minimal techno",
+    "object_type": "Genre",
+    "evidence": "has been a leading exponent of minimal techno since the mid-1990s",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "From My Mind To Yours",
+    "object_type": "Album",
+    "evidence": "Hawtin released a fifteen-track LP titled From My Mind To Yours",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Sounds of the Third Season",
+    "object_type": "Album",
+    "evidence": "He released a mix CD Sounds of the Third Season with Sven Väth.",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "From Within",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "minimal techno",
+    "object_type": "Genre",
+    "evidence": "From Within series of albums which blend minimal techno and ambient",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "From Within",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "ambient",
+    "object_type": "Genre",
+    "evidence": "From Within series of albums which blend minimal techno and ambient",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "F.U.S.E.",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Dimension Intrusion",
+    "object_type": "Album",
+    "evidence": "F.U.S.E. : Dimension Intrusion, 1993",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Plastikman",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Sheet One",
+    "object_type": "Album",
+    "evidence": "Plastikman: Sheet One, 1993",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "From Within",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: From Within, 1994 (with Pete Namlook)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Plastikman",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Recycled Plastik",
+    "object_type": "Album",
+    "evidence": "Plastikman: Recycled Plastik, 1994",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Plastikman",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Musik",
+    "object_type": "Album",
+    "evidence": "Plastikman: Musik, 1994",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "From Within 2",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: From Within 2, 1995 (with Pete Namlook)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Plastikman",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Sickness",
+    "object_type": "Album",
+    "evidence": "Plastikman: Sickness (EP), 1997",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "From Within 3",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: From Within 3, 1997 (with Pete Namlook)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Plastikman",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Consumed",
+    "object_type": "Album",
+    "evidence": "Plastikman: Consumed, 1998",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Plastikman",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Artifakts [bc]",
+    "object_type": "Album",
+    "evidence": "Plastikman: Artifakts [bc], 1998",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Plastikman",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Closer",
+    "object_type": "Album",
+    "evidence": "Plastikman: Closer, 2003",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Plastikman",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "EX",
+    "object_type": "Album",
+    "evidence": "Plastikman: EX, 2014 (UK Dance No. 16)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "From My Mind to Yours",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: From My Mind to Yours, 2015",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Time Warps",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: Time Warps (EP), 2020",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Concept 1 (Digital)",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: Concept 1 (Digital), 2021",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Mixmag Live!",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: Mixmag Live!, 1995 (Live DJ mix album)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Decks, EFX & 909",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: Decks, EFX & 909, 1999 (DJ mix album)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "DE9: Closer to the Edit",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: DE9: Closer to the Edit, 2001 (DJ mix album)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Sound of the Third Season",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin and Sven Väth: Sound of the Third Season, 2002 (DJ mix album)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Sven Väth",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Sound of the Third Season",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin and Sven Väth: Sound of the Third Season, 2002 (DJ mix album)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "DE9 | Transitions",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: DE9 | Transitions, 2005 (DJ mix album)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "DE9 lite: Electronic Adventures",
+    "object_type": "Album",
+    "evidence": "Richie Hawtin: DE9 lite: Electronic Adventures, 2006 (DJ mix album, produced with Mixmag)",
+    "source": "Richie_Hawtin.txt"
+  },
+  {
+    "subject": "Apollo Records",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Selected Ambient Works 85–92",
+    "object_type": "Album",
+    "evidence": "It was released on 9 November 1992 through Apollo Records",
+    "source": "Selected_Ambient_Works_85–92.txt"
+  },
+  {
+    "subject": "Selected Ambient Works 85–92",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "ambient techno",
+    "object_type": "Genre",
+    "evidence": "The album consists of ambient techno James recorded on cassette as early as 1985",
+    "source": "Selected_Ambient_Works_85–92.txt"
+  },
+  {
+    "subject": "Selected Ambient Works 85–92",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "electronica",
+    "object_type": "Genre",
+    "evidence": "Selected Ambient Works 85–92 is considered a classic, defining work of electronica.",
+    "source": "Selected_Ambient_Works_85–92.txt"
+  },
+  {
+    "subject": "Mighty Force",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Analogue Bubblebath",
+    "object_type": "Album",
+    "evidence": "James's first release was the 12\" EP Analogue Bubblebath, released on Mighty Force in September 1991.",
+    "source": "Selected_Ambient_Works_85–92.txt"
+  },
+  {
+    "subject": "Apollo",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Selected Ambient Works 85‍–‍92",
+    "object_type": "Album",
+    "evidence": "Selected Ambient Works 85‍–‍92 was released on 9 November 1992 through Apollo",
+    "source": "Selected_Ambient_Works_85–92.txt"
+  },
+  {
+    "subject": "James",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Warp Records",
+    "object_type": "Label",
+    "evidence": "he had signed to Warp Records",
+    "source": "Selected_Ambient_Works_85–92.txt"
+  },
+  {
+    "subject": "Selected Ambient Works 85–92",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "ambient techno",
+    "object_type": "Genre",
+    "evidence": "AllMusic's John Bush called it \"a masterpiece of ambient techno\"",
+    "source": "Selected_Ambient_Works_85–92.txt"
+  },
+  {
+    "subject": "Selected Ambient Works 85–92",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "ambient",
+    "object_type": "Genre",
+    "evidence": "It has been described as a defining electronica and ambient record",
+    "source": "Selected_Ambient_Works_85–92.txt"
+  },
+  {
+    "subject": "Selected Ambient Works 85–92",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "electronica",
+    "object_type": "Genre",
+    "evidence": "It has been described as a defining electronica and ambient record",
+    "source": "Selected_Ambient_Works_85–92.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Syro",
+    "object_type": "Album",
+    "evidence": "the release of Aphex Twin's 2014 album Syro",
+    "source": "Selected_Ambient_Works_85–92.txt"
+  },
+  {
+    "subject": "Juan Atkins",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "The Belleville Three",
+    "object_type": "Artist",
+    "evidence": "Juan Atkins, Derrick May, and Kevin Saunderson (collectively known as The Belleville Three)",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Derrick May",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "The Belleville Three",
+    "object_type": "Artist",
+    "evidence": "Juan Atkins, Derrick May, and Kevin Saunderson (collectively known as The Belleville Three)",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Kevin Saunderson",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "The Belleville Three",
+    "object_type": "Artist",
+    "evidence": "Juan Atkins, Derrick May, and Kevin Saunderson (collectively known as The Belleville Three)",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Kraftwerk",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "synth-pop",
+    "object_type": "Genre",
+    "evidence": "synth-pop by artists such as Kraftwerk",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Giorgio Moroder",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "synth-pop",
+    "object_type": "Genre",
+    "evidence": "synth-pop by artists such as Kraftwerk, Giorgio Moroder and Yellow Magic Orchestra",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Yellow Magic Orchestra",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "synth-pop",
+    "object_type": "Genre",
+    "evidence": "synth-pop by artists such as Kraftwerk, Giorgio Moroder and Yellow Magic Orchestra",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "E=MC2",
+    "subject_type": "Album",
+    "predicate": "released",
+    "object": "Giorgio Moroder",
+    "object_type": "Person",
+    "evidence": "the producer's own album E=MC2",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Derrick May",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Kraftwerk",
+    "object_type": "Artist",
+    "evidence": "Derrick May identified the influence of Kraftwerk and other European synthesizer music",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Derrick May",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Yellow Magic Orchestra",
+    "object_type": "Artist",
+    "evidence": "He also identified Japanese synth-pop act Yellow Magic Orchestra, particularly member Ryuichi Sakamoto, and British band Ultravox, as influences, along with Kraftwerk.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Derrick May",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Ryuichi Sakamoto",
+    "object_type": "Person",
+    "evidence": "He also identified Japanese synth-pop act Yellow Magic Orchestra, particularly member Ryuichi Sakamoto, and British band Ultravox, as influences, along with Kraftwerk.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Derrick May",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Ultravox",
+    "object_type": "Artist",
+    "evidence": "He also identified Japanese synth-pop act Yellow Magic Orchestra, particularly member Ryuichi Sakamoto, and British band Ultravox, as influences, along with Kraftwerk.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Ryuichi Sakamoto",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Yellow Magic Orchestra",
+    "object_type": "Artist",
+    "evidence": "Yellow Magic Orchestra, particularly member Ryuichi Sakamoto",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Juan Atkins",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Metroplex",
+    "object_type": "Label",
+    "evidence": "in 1985 he established the record label Metroplex.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Juan Atkins",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Cybotron",
+    "object_type": "Artist",
+    "evidence": "Atkins began recording with musical partner Richard Davis (and later with a third member, Jon-5) as Cybotron.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Richard Davis",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Cybotron",
+    "object_type": "Artist",
+    "evidence": "Atkins began recording with musical partner Richard Davis (and later with a third member, Jon-5) as Cybotron.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Jon-5",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Cybotron",
+    "object_type": "Artist",
+    "evidence": "Atkins began recording with musical partner Richard Davis (and later with a third member, Jon-5) as Cybotron.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Juan Atkins",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "Alvin Toffler",
+    "object_type": "Person",
+    "evidence": "taking inspiration from Futurist author Alvin Toffler",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "May",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "house",
+    "object_type": "Genre",
+    "evidence": "May and Saunderson, admit to having been fascinated by the Chicago club scene and influenced by house in particular",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Saunderson",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "house",
+    "object_type": "Genre",
+    "evidence": "May and Saunderson, admit to having been fascinated by the Chicago club scene and influenced by house in particular",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Strings of Life",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "house",
+    "object_type": "Genre",
+    "evidence": "May's 1987 hit \"Strings of Life\" (released under the alias Rhythim Is Rhythim [sic]) is considered a classic in both the house and techno genres.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Strings of Life",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "techno",
+    "object_type": "Genre",
+    "evidence": "May's 1987 hit \"Strings of Life\" (released under the alias Rhythim Is Rhythim [sic]) is considered a classic in both the house and techno genres.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Rhythim Is Rhythim",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Strings of Life",
+    "object_type": "Album",
+    "evidence": "May's 1987 hit \"Strings of Life\" (released under the alias Rhythim Is Rhythim [sic])",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Derrick May",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Strings of Life",
+    "object_type": "Album",
+    "evidence": "Derrick May's \"Strings of Life\" (1987)",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Derrick May",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Nude Photo",
+    "object_type": "Album",
+    "evidence": "May's previous release, \"Nude Photo\" (1987)",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Neil Rushton",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Kool Kat Records",
+    "object_type": "Label",
+    "evidence": "Kool Kat Records boss Neil Rushton",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Inner City",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Big Fun",
+    "object_type": "Album",
+    "evidence": "Inner City's production \"Big Fun\" (1988)",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Andreas Tomalla",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Bigod 20",
+    "object_type": "Artist",
+    "evidence": "Some of the work done by Andreas Tomalla, Markus Nikolai and Thomas Franzmann evolved in collaborative work under the Bigod 20 collective.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Markus Nikolai",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Bigod 20",
+    "object_type": "Artist",
+    "evidence": "Some of the work done by Andreas Tomalla, Markus Nikolai and Thomas Franzmann evolved in collaborative work under the Bigod 20 collective.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Thomas Franzmann",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Bigod 20",
+    "object_type": "Artist",
+    "evidence": "Some of the work done by Andreas Tomalla, Markus Nikolai and Thomas Franzmann evolved in collaborative work under the Bigod 20 collective.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "DAF",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "electronic body music",
+    "object_type": "Genre",
+    "evidence": "European electronic body music (EBM) groups of the mid-1980s such as DAF",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Front 242",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "electronic body music",
+    "object_type": "Genre",
+    "evidence": "European electronic body music (EBM) groups of the mid-1980s such as DAF, Front 242",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Nitzer Ebb",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "electronic body music",
+    "object_type": "Genre",
+    "evidence": "European electronic body music (EBM) groups of the mid-1980s such as DAF, Front 242, and Nitzer Ebb",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Kraftwerk",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "synth-pop",
+    "object_type": "Genre",
+    "evidence": "synth-pop such as Kraftwerk and Yello",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Yello",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "synth-pop",
+    "object_type": "Genre",
+    "evidence": "synth-pop such as Kraftwerk and Yello",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Richie Hawtin",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Plus 8 Records",
+    "object_type": "Label",
+    "evidence": "Richie Hawtin, with business partner John Acquaviva, launched the techno imprint Plus 8 Records.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "John Acquaviva",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Plus 8 Records",
+    "object_type": "Label",
+    "evidence": "Richie Hawtin, with business partner John Acquaviva, launched the techno imprint Plus 8 Records.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Jeff Mills",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "UR",
+    "object_type": "Artist",
+    "evidence": "UR's Jeff Mills, Mike Banks, and Robert Hood",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Mike Banks",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "UR",
+    "object_type": "Artist",
+    "evidence": "UR's Jeff Mills, Mike Banks, and Robert Hood",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Robert Hood",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "UR",
+    "object_type": "Artist",
+    "evidence": "UR's Jeff Mills, Mike Banks, and Robert Hood",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Tresor Records",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Tresor II: Berlin & Detroit – A Techno Alliance",
+    "object_type": "Album",
+    "evidence": "In 1993, the German techno label Tresor Records released the compilation album Tresor II: Berlin & Detroit – A Techno Alliance",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Underground Resistance",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "X-101/X-102/X103",
+    "object_type": "Album",
+    "evidence": "Underground Resistance released their X-101/X-102/X103 album series",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Robert Hood",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "UR",
+    "object_type": "Artist",
+    "evidence": "Robert Hood, a Detroit-based producer and one time member of UR",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "techno",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "jazz",
+    "object_type": "Genre",
+    "evidence": "Some techno has also been influenced by or directly infused with elements of jazz.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Mike Banks",
+    "subject_type": "Person",
+    "predicate": "influenced_by",
+    "object": "jazz",
+    "object_type": "Genre",
+    "evidence": "Detroit producer Mike Banks was heavily influenced by jazz",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Underground Resistance",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Nation 2 Nation",
+    "object_type": "Album",
+    "evidence": "the influential Underground Resistance release Nation 2 Nation (1991)",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Dave Angel",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "jazz",
+    "object_type": "Genre",
+    "evidence": "techno producers in the UK who were influenced by both jazz and UR, Dave Angel's \"Seas of Tranquility\" EP (1994) being a case in point",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Dave Angel",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "UR",
+    "object_type": "Artist",
+    "evidence": "techno producers in the UK who were influenced by both jazz and UR, Dave Angel's \"Seas of Tranquility\" EP (1994) being a case in point",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Dave Angel",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Seas of Tranquility",
+    "object_type": "Album",
+    "evidence": "Dave Angel's \"Seas of Tranquility\" EP (1994)",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Steve Beckett",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Warp",
+    "object_type": "Label",
+    "evidence": "Warp founder and managing director Steve Beckett",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Artificial Intelligence",
+    "object_type": "Album",
+    "evidence": "so we decided to make the compilation Artificial Intelligence",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Artificial Intelligence",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "intelligent techno",
+    "object_type": "Genre",
+    "evidence": "Warp had originally marketed Artificial Intelligence using the description electronic listening music but this was quickly replaced by intelligent techno.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Carl Craig",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Planet E",
+    "object_type": "Label",
+    "evidence": "Carl Craig's Planet E",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Kirk Degiorgio",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Applied Rhythmic Technology",
+    "object_type": "Label",
+    "evidence": "Kirk Degiorgio's Applied Rhythmic Technology",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "jungle",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "hip hop",
+    "object_type": "Genre",
+    "evidence": "jungle (drum and bass) demonstrated influences ranging from hip hop, soul, and reggae to techno and house.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "jungle",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "soul",
+    "object_type": "Genre",
+    "evidence": "jungle (drum and bass) demonstrated influences ranging from hip hop, soul, and reggae to techno and house.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "jungle",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "reggae",
+    "object_type": "Genre",
+    "evidence": "jungle (drum and bass) demonstrated influences ranging from hip hop, soul, and reggae to techno and house.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "jungle",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "techno",
+    "object_type": "Genre",
+    "evidence": "jungle (drum and bass) demonstrated influences ranging from hip hop, soul, and reggae to techno and house.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "jungle",
+    "subject_type": "Genre",
+    "predicate": "influenced_by",
+    "object": "house",
+    "object_type": "Genre",
+    "evidence": "jungle (drum and bass) demonstrated influences ranging from hip hop, soul, and reggae to techno and house.",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Missy Elliott",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Miss E... So Addictive",
+    "object_type": "Album",
+    "evidence": "Elliott's 2001 album Miss E... So Addictive",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Steve Fairnie",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "the Techno Twins",
+    "object_type": "Artist",
+    "evidence": "Steve Fairnie and Bev Sage formed an electronica band called the Techno Twins",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Bev Sage",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "the Techno Twins",
+    "object_type": "Artist",
+    "evidence": "Steve Fairnie and Bev Sage formed an electronica band called the Techno Twins",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Yellow Magic Orchestra",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Technodelic",
+    "object_type": "Album",
+    "evidence": "the Japanese band Yellow Magic Orchestra used the word 'techno' in a number of their works such as the song \"Technopolis\" (1979), the album Technodelic (1981)",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Paul Hartnoll",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Orbital",
+    "object_type": "Artist",
+    "evidence": "Paul Hartnoll, of the dance group Orbital",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Jean-Marc Cerrone",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Love in C minor",
+    "object_type": "Album",
+    "evidence": "record entitled Love in C minor, released in 1976 by Parisian Eurodisco producer Jean-Marc Cerrone",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Visage",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "synth-pop",
+    "object_type": "Genre",
+    "evidence": "synth-pop artists such as Visage, New Order, Depeche Mode, The Human League, and Heaven 17",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "New Order",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "synth-pop",
+    "object_type": "Genre",
+    "evidence": "synth-pop artists such as Visage, New Order, Depeche Mode, The Human League, and Heaven 17",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Depeche Mode",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "synth-pop",
+    "object_type": "Genre",
+    "evidence": "synth-pop artists such as Visage, New Order, Depeche Mode, The Human League, and Heaven 17",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "The Human League",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "synth-pop",
+    "object_type": "Genre",
+    "evidence": "synth-pop artists such as Visage, New Order, Depeche Mode, The Human League, and Heaven 17",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Heaven 17",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "synth-pop",
+    "object_type": "Genre",
+    "evidence": "synth-pop artists such as Visage, New Order, Depeche Mode, The Human League, and Heaven 17",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Nitzer Ebb",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "funk",
+    "object_type": "Genre",
+    "evidence": "Nitzer Ebb was an Essex band formed in 1982, which also showed funk and EDM influence",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Nitzer Ebb",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "EDM",
+    "object_type": "Genre",
+    "evidence": "Nitzer Ebb was an Essex band formed in 1982, which also showed funk and EDM influence",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Derrick May",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Nude Photo",
+    "object_type": "Album",
+    "evidence": "Derrick May's seminal 1987 techno release Nude Photo",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Nude Photo",
+    "subject_type": "Album",
+    "predicate": "has_genre",
+    "object": "Techno",
+    "object_type": "Genre",
+    "evidence": "Derrick May's seminal 1987 techno release Nude Photo",
+    "source": "Techno.txt"
+  },
+  {
+    "subject": "Steve Beckett",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Warp Records",
+    "object_type": "Label",
+    "evidence": "Warp Records is a British independent record label founded in Sheffield in 1989 by Steve Beckett, Robert Mitchell and Robert Gordon.",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Robert Mitchell",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Warp Records",
+    "object_type": "Label",
+    "evidence": "Warp Records is a British independent record label founded in Sheffield in 1989 by Steve Beckett, Robert Mitchell and Robert Gordon.",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Robert Gordon",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Warp Records",
+    "object_type": "Label",
+    "evidence": "Warp Records is a British independent record label founded in Sheffield in 1989 by Steve Beckett, Robert Mitchell and Robert Gordon.",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Robert Gordon",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Forgemasters",
+    "object_type": "Artist",
+    "evidence": "Gordon's band Forgemasters",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Radiohead",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "Warp Records",
+    "object_type": "Label",
+    "evidence": "Warp is associated with experimental electronic music but has influenced artists of other genres, such as the rock band Radiohead.",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Jarvis Cocker",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "Pulp",
+    "object_type": "Artist",
+    "evidence": "Jarvis Cocker, a member of the Sheffield band Pulp",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Pulp",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Island Records",
+    "object_type": "Label",
+    "evidence": "Pulp signed to Island Records.",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Track With No Name",
+    "object_type": "Album",
+    "evidence": "In 1989, Warp released its first single, \"Track With No Name\" by Gordon's band Forgemasters.",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "founded",
+    "object": "Gift Records",
+    "object_type": "Label",
+    "evidence": "Warp created an imprint, Gift Records, to release records by pop and rock acts including Pulp.",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "CCCD",
+    "object_type": "Album",
+    "evidence": "In 1991, Warp released its first album, CCCD",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Artificial Intelligence",
+    "object_type": "Album",
+    "evidence": "In 1992, Warp released Artificial Intelligence",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Artificial Intelligence II",
+    "object_type": "Album",
+    "evidence": "In 1994, Warp released Artificial Intelligence II",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Mira Calix",
+    "subject_type": "Artist",
+    "predicate": "released",
+    "object": "Ilanga",
+    "object_type": "Album",
+    "evidence": "her debut EP, Ilanga, released under the name Mira Calix",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Boards of Canada",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Warp",
+    "object_type": "Label",
+    "evidence": "In 1998, Warp signed the electronic duo Boards of Canada",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Influences, Classics & Remixes",
+    "object_type": "Album",
+    "evidence": "it released the compilation album Influences, Classics & Remixes",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Aphex Twin",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Warp",
+    "object_type": "Label",
+    "evidence": "Warp artists such as Aphex Twin",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "the Sabres of Paradise",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Warp",
+    "object_type": "Label",
+    "evidence": "Warp signed rock bands such as Maxïmo Park, !!!, Battles and Grizzly Bear; acts creating different kinds of electronic music, such as the Sabres of Paradise and Broadcast",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "the Sabres of Paradise",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "electronic music",
+    "object_type": "Genre",
+    "evidence": "acts creating different kinds of electronic music, such as the Sabres of Paradise and Broadcast",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Broadcast",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Warp",
+    "object_type": "Label",
+    "evidence": "Warp signed rock bands such as Maxïmo Park, !!!, Battles and Grizzly Bear; acts creating different kinds of electronic music, such as the Sabres of Paradise and Broadcast",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Broadcast",
+    "subject_type": "Artist",
+    "predicate": "has_genre",
+    "object": "electronic music",
+    "object_type": "Genre",
+    "evidence": "acts creating different kinds of electronic music, such as the Sabres of Paradise and Broadcast",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Nic Offer",
+    "subject_type": "Person",
+    "predicate": "member_of",
+    "object": "!!!",
+    "object_type": "Artist",
+    "evidence": "The !!! member Nic Offer",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Tom Brown",
+    "subject_type": "Person",
+    "predicate": "founded",
+    "object": "Lex Records",
+    "object_type": "Label",
+    "evidence": "Lex Records, created by the Warp employee Tom Brown",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Brian Eno",
+    "subject_type": "Artist",
+    "predicate": "signed_to",
+    "object": "Warp",
+    "object_type": "Label",
+    "evidence": "Brian Eno, a pioneer of ambient music, signed to Warp in 2010",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Warp20",
+    "object_type": "Album",
+    "evidence": "It also released the Warp20 box set",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "WXAXRXP Sessions",
+    "object_type": "Album",
+    "evidence": "Warp released WXAXRXP Sessions, a box set compiling radio sessions by Warp artists",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Warp",
+    "subject_type": "Label",
+    "predicate": "released",
+    "object": "Richard D. James Album",
+    "object_type": "Album",
+    "evidence": "Warp released his most successful releases, Richard D. James Album (1996)",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Radiohead",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "Aphex Twin",
+    "object_type": "Artist",
+    "evidence": "Artists such as Aphex Twin and Autechre influenced Radiohead's move into electronic music",
+    "source": "Warp_record_label.txt"
+  },
+  {
+    "subject": "Radiohead",
+    "subject_type": "Artist",
+    "predicate": "influenced_by",
+    "object": "Autechre",
+    "object_type": "Artist",
+    "evidence": "Artists such as Aphex Twin and Autechre influenced Radiohead's move into electronic music",
+    "source": "Warp_record_label.txt"
+  }
+]
