@@ -37,7 +37,7 @@ def build_graph():
 if __name__ == "__main__":
     graph = build_graph()
     # спільноти шукаємо на неорієнтованому графі
-    partition = community_louvain.best_partition(graph.to_undirected())
+    partition = community_louvain.best_partition(graph.to_undirected(), random_state=1)
     print("вузлів:", graph.number_of_nodes(), "ребер:", graph.number_of_edges())
     sizes = sorted([list(partition.values()).count(c) for c in set(partition.values())], reverse=True)
     print("спільнот:", len(sizes), "розміри:", sizes)
